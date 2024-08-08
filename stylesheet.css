@@ -1,0 +1,31 @@
+h4{
+    color: rgb(23, 105, 42); 
+    font-size: 24px;
+    font-family: 'Arial';
+    font-style: italic;
+}
+
+.container {
+    display: flex;
+}
+  
+.half-page {
+    padding: 20px;
+    width: 45%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    text-align: center;
+    background-color: rgb(232, 79, 79);
+    border: 2px solid black
+}
+
+a:hover {
+    color: red; 
+  }
+
+#unique{
+    color: blue; 
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
